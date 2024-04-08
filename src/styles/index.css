@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+button {
+  border-radius: 32px;
+  /* background-color: #6200ea; */
+  background-color: #689f38  ;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+}
+
+button:hover {
+  background-color: #7c4dff;
+  color: white;
+}

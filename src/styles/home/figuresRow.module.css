@@ -1,0 +1,25 @@
+.container {
+    padding: 32px;
+    /* background-color: #1f0d35; */
+    background-color: #c5e1a5; 
+    color: black;
+  }
+  
+  .innerContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 32px;
+    padding: 32px;
+    flex-wrap: wrap;
+  }
+  
+  .figureContainer {
+    text-align: center;
+  }
+  
+  .figureContainer h2 {
+    color: black;
+    font-size: 3rem;
+  }
+  
